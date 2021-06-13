@@ -1,0 +1,22 @@
+h1{
+    color:aqua
+}
+*{
+   /* border:solid */
+}
+.header{
+    display: flex;
+    background-color: chartreuse;
+    justify-content: center;
+}
+.content{
+    display: flex;
+    background-color: springgreen;
+    flex-direction: column;
+    flex-wrap: wrap;
+    border: solid;
+    text-align: center;
+}
+p,h1{
+   
+}
